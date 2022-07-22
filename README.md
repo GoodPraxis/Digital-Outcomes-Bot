@@ -6,7 +6,7 @@ Sends a message to Google Chat when a new opportunity on [Digital Outcomes](http
 The script will create a temporary file to store the latest ID of the opportunity to keep track of which opportunities are new and which have been seen already.
 
 ## Configuration
-Set bot webhook URL in `config.ini`.
+Set bot webhook URL in `config.ini`. You can create a webook URL by going to your space, clicking on the space name and selecting "⚙️ Manage webhooks".
 
 ## Installation
 Create a virtual environment and run `pip install`:
